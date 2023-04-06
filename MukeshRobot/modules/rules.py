@@ -160,7 +160,7 @@ __help__ = """
  ‣ `/setrules <your rules here>`*:* set the rules for this chat.
  ‣ `/clearrules`*:* clear the rules for this chat.
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+☆............𝙱𝚈 » [𝚂𝙷𝙸𝚅 𝙾𝙿](https://t.me/THA_SHIV_OP)............☆
 """
 
 __mod_name__ = "⚡Rᴜʟᴇs⚡"
