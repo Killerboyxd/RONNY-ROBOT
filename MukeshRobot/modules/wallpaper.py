@@ -43,7 +43,7 @@ async def wall(client, message):
             .url
         )
         img = Image.open(io.BytesIO(requests.get(randc).content))
-        fname = "mukeshrobot.png"
+        fname = "shivrobot.png"
         img.save(fname, "png")
         caption = f"""
 💘 ᴡᴀʟʟᴩᴀᴩᴇʀ ɢᴇɴᴇʀᴀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ 
@@ -52,7 +52,7 @@ async def wall(client, message):
 🥀 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :** {message.from_user.mention}
 ❄ **ᴅᴏᴡɴʟᴏᴀᴅ :** `{murl}`
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+☆............𝙱𝚈 » [sʜɪᴠ ᴏᴘ](https://t.me/THA_SHIV_OP)............☆
 """
         await m.delete()
         await client.send_photo(
