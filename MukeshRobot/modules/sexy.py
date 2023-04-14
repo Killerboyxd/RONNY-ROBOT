@@ -4,9 +4,9 @@ from telethon import Button, events
 
 from .. import telethn as asst
 
-BUTTON = [[Button.url("🍒 ꜱᴜᴘᴘᴏʀᴛ 🍒", "https://t.me/TG_FRIENDSS")]]
-HOT = "https://telegra.ph/file/daad931db960ea40c0fca.gif"
-SMEXY = "https://telegra.ph/file/a23e9fd851fb6bc771686.gif"
+BUTTON = [[Button.url("🍒 ꜱᴜᴘᴘᴏʀᴛ 🍒", "https://t.me/RONNY_KI_DUNIYA")]]
+SHIV = "https://telegra.ph/file/9584b19633bf5b31faa12.jpg"
+KILLER BOY= "https://telegra.ph/file/c4c74ca853dbe426b5075.jpg"
 LEZBIAN = "https://telegra.ph/file/5609b87f0bd461fc36acb.gif"
 BIGBALL = "https://i.gifer.com/8ZUg.gif"
 LANG = "https://telegra.ph/file/423414459345bf18310f5.gif"
@@ -84,7 +84,7 @@ __help__ = """
 
 ➻ /cute - ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ᴄᴜᴛᴇɴᴇꜱꜱ
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+☆............𝙱𝚈 » [sʜɪᴠ ᴏᴘ](https://t.me/THA_SHIV_OP)............☆
 """
 
-__mod_name__ = "⚡Sᴇᴍxʏ⚡"
+__mod_name__ = "⚡Sʜɪᴠ ᴏᴘ⚡"
